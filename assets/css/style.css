@@ -1,0 +1,28 @@
+:root {
+	--font-family: "JetBrains Mono", monospace, sans-serif;
+	--primary: #1D8660 !important;
+	--primary-hover: #1a7755 !important;
+	--primary-focus: rgba(29, 134, 96, 0.13) !important
+}
+
+summary {
+	font-weight: 700
+}
+
+h1 {
+	font-size: 3rem
+}
+
+nav {
+	min-height: 100px
+}
+
+.hide * {
+	color: transparent !important
+}
+
+.warning{
+    --primary:#cea841!important;
+    --primary-hover:#ad8e36!important;
+    --primary-focus:rgba(252, 223, 2, 0.13)!important
+}

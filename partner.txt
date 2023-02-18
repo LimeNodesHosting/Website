@@ -11,7 +11,7 @@ LimeNodes Hosts...
 ║  Rust Servers
 ╚  & So Much More!
 
-Discord: https://discord.gg/fZKBSknHvB (<https://limenodes.com/discord>)
+Discord: https://discord.gg/limenodes
 Website: https://limenodes.com/
 Dashboard: <https://limenodes.com/dash>
 Panel: <https://limenodes.com/panel>
